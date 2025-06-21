@@ -9,8 +9,6 @@ author: Tactical Breach Wizards Offline Free
 # 🧙‍♂️ Tactical Breach Wizards - Offline Setup Assistant
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tactical-Breach-Wizards-Offline-Free/tactical-breach-wizards-offline-setup-assistant/main/assets/logo.png" alt="TBW Logo" width="200"/>
-  
   <p><strong>🎯 Ultimate Offline Gaming Experience</strong></p>
   <p>Play Tactical Breach Wizards Without Steam, Internet, or Launchers!</p>
   
@@ -23,6 +21,11 @@ author: Tactical Breach Wizards Offline Free
     </a>
   </div>
 </div>
+
+## 📸 Gameplay Preview
+
+![Tactical Combat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMPUAXzcpIgMMV-4HWJtOTgCfrbUUVtxtFw&s)  
+*Strategic wizard combat - breach rooms with tactical wizardry and time manipulation!*
 
 ---
 
@@ -61,27 +64,6 @@ author: Tactical Breach Wizards Offline Free
 - **💾 Save Management**: Backup, restore, and transfer game progress
 - **🌍 Multi-Language**: Interface available in 15+ languages
 - **🎨 Cross-Platform**: Windows, macOS, and Linux support
-
----
-
-## 📸 Screenshots
-
-<div class="screenshot-gallery">
-  <div class="screenshot-item">
-    <img src="https://raw.githubusercontent.com/Tactical-Breach-Wizards-Offline-Free/tactical-breach-wizards-offline-setup-assistant/main/assets/combat-preview.png" alt="Tactical Combat" />
-    <p><em>Strategic wizard combat - every spell counts!</em></p>
-  </div>
-  
-  <div class="screenshot-item">
-    <img src="https://raw.githubusercontent.com/Tactical-Breach-Wizards-Offline-Free/tactical-breach-wizards-offline-setup-assistant/main/assets/setup-interface.png" alt="Setup Interface" />
-    <p><em>Clean, intuitive setup process</em></p>
-  </div>
-  
-  <div class="screenshot-item">
-    <img src="https://raw.githubusercontent.com/Tactical-Breach-Wizards-Offline-Free/tactical-breach-wizards-offline-setup-assistant/main/assets/time-magic.png" alt="Time Mechanics" />
-    <p><em>Manipulate time and space strategically</em></p>
-  </div>
-</div>
 
 ---
 
