@@ -1,0 +1,233 @@
+# 🔐 Internal System Files - NEVER COMMIT
+.internal/
+UNIVERSAL_SEO_TOOLKIT.md
+*_TEMPLATE.md
+*_CREDENTIALS.md
+*_SETUP.md
+*.prompt.md
+ALL_IN_ONE_PROMPT.md
+
+# 💻 Operating System
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# 🔧 IDEs and Editors
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+.project
+.metadata
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# 📦 Package Managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log*
+
+# 🐍 Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.env
+pip-log.txt
+pip-delete-this-directory.txt
+.coverage
+.pytest_cache/
+.tox/
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# ☕ Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+
+# 🔧 Build outputs
+dist/
+build/
+out/
+target/
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.dylib
+*.app
+*.dmg
+*.pkg
+*.deb
+*.rpm
+
+# 📊 Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# 🔄 Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+lib-cov/
+coverage/
+.nyc_output/
+
+# 🌐 Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# 🔑 Credentials and Keys
+*.pem
+*.key
+*.crt
+*.p12
+config/keys.js
+secrets.json
+credentials.json
+
+# 🗃️ Database
+*.db
+*.sqlite
+*.sqlite3
+
+# 🧪 Testing
+test-results/
+coverage/
+.coverage
+htmlcov/
+.pytest_cache/
+.jest/
+
+# 📱 Mobile
+*.ipa
+*.apk
+*.aab
+
+# 🎮 Game-specific
+save_data/
+screenshots/
+replays/
+*.save
+*.dat
+config/*.ini
+
+# 📦 Archives and installers
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.bz2
+*.gz
+*.iso
+*.msi
+*.msm
+*.msp
+
+# 🔍 Search indices
+.vscode/search.cache
+
+# 💾 Backup files
+*.bak
+*.backup
+*.tmp
+*.temp
+*~
+.#*
+\#*#
+
+# 🏗️ Build tools
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+.gradletasknamecache
+
+# 📖 Documentation builds
+docs/_build/
+docs/.doctrees/
+site/
+
+# 🔄 Version control
+.git/
+.svn/
+.hg/
+.bzr/
+
+# 🖥️ System files
+*.lnk
+*.url
+Icon?
+
+# 🎨 Graphics working files
+*.psd
+*.ai
+*.sketch
+*.fig
+*.xd
+
+# 🎵 Audio working files
+*.wav
+*.aif
+*.aiff
+*.flac
+*.ogg
+sessions/
+*.ptx
+*.rex
+
+# 📹 Video working files
+*.mov
+*.mp4
+*.avi
+*.mkv
+*.prproj
+footage/
+
+# 🔧 Configuration
+!.github/
+!docs/
+!assets/ 

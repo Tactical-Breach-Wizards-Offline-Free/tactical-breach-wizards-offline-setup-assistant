@@ -1,0 +1,165 @@
+# Site Configuration
+title: "Tactical Breach Wizards - Offline Setup Assistant"
+description: "The ultimate offline gaming solution for Tactical Breach Wizards. Play without Steam, internet, or launchers! Free setup assistant with multi-platform support."
+url: "https://tactical-breach-wizards-offline-free.github.io"
+baseurl: "/tactical-breach-wizards-offline-setup-assistant"
+
+# Author Information
+author:
+  name: "Tactical Breach Wizards Offline Free"
+  email: "contact@tbw-offline.com"
+  github: "Tactical-Breach-Wizards-Offline-Free"
+  twitter: "tbw_offline"
+
+# Repository Information
+repository: "Tactical-Breach-Wizards-Offline-Free/tactical-breach-wizards-offline-setup-assistant"
+github_username: "Tactical-Breach-Wizards-Offline-Free"
+
+# Theme and Plugins
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-relative-links
+
+# SEO Configuration
+lang: en_US
+logo: "/assets/logo.png"
+social:
+  name: "Tactical Breach Wizards Offline Free"
+  links:
+    - https://github.com/Tactical-Breach-Wizards-Offline-Free
+    - https://twitter.com/tbw_offline
+    - https://discord.gg/tactical-breach-wizards
+
+# Navigation
+header_pages:
+  - index.md
+  - installation.md
+  - features.md
+  - support.md
+  - community.md
+
+# Content Settings
+show_excerpts: true
+future: false
+safe: true
+incremental: false
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:name/
+  tutorials:
+    output: true
+    permalink: /:collection/:name/
+
+# Default Front Matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "docs"
+    values:
+      layout: "doc"
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+
+# Include specific files
+include:
+  - _pages
+  - _docs
+  - assets
+
+# Compression
+sass:
+  style: compressed
+
+# Security
+safe: true
+
+# SEO Tags Configuration
+twitter:
+  username: tbw_offline
+  card: summary_large_image
+
+facebook:
+  app_id: # Facebook App ID for insights
+  publisher: # Facebook page URL
+  admins: # Facebook User ID for insights
+
+google_site_verification: # Google Search Console verification
+
+# Analytics (optional)
+google_analytics: # Google Analytics ID
+
+# Webmaster Tools
+google_site_verification: # Google
+bing_site_verification: # Bing
+alexa_site_verification: # Alexa
+yandex_site_verification: # Yandex
+naver_site_verification: # Naver
+
+# Social sharing
+twitter:
+  username: tbw_offline
+
+# Pagination
+paginate: 10
+paginate_path: "/blog/page:num/"
+
+# Comments (optional)
+disqus:
+  shortname: # Disqus shortname
+
+# Build settings
+source: .
+destination: ./_site
+plugins_dir: _plugins
+layouts_dir: _layouts
+data_dir: _data
+includes_dir: _includes
+
+# Liquid settings
+liquid:
+  error_mode: warn
+  strict_filters: false
+  strict_variables: false
+
+# Custom variables for the site
+custom:
+  version: "v2.1.0"
+  download_url: "https://tactical-breach-wizards-offline-free.github.io/.github"
+  support_email: "support@tbw-offline.com"
+  discord_invite: "https://discord.gg/tactical-breach-wizards"
+  reddit_community: "https://www.reddit.com/r/TacticalBreachWizards/" 
