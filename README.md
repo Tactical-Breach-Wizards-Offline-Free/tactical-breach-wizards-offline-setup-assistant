@@ -73,13 +73,6 @@ For users who want custom configurations:
 ![Tactical Combat](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcMPUAXzcpIgMMV-4HWJtOTgCfrbUUVtxtFw&s)
 *Breach rooms with strategic wizard combat - every shot counts!*
 
-![Time Mechanics](https://raw.githubusercontent.com/Tactical-Breach-Wizards-Offline-Free/tactical-breach-wizards-offline-setup-assistant/main/assets/time-magic.png)
-*Manipulate time and space to outsmart your enemies*
-
-### Setup Assistant Interface
-![Setup Assistant](https://raw.githubusercontent.com/Tactical-Breach-Wizards-Offline-Free/tactical-breach-wizards-offline-setup-assistant/main/assets/setup-interface.png)
-*Clean, intuitive setup process that gets you gaming in minutes*
-
 ## 🎮 Controls & Gameplay
 
 ### Default Controls
